@@ -1,13 +1,13 @@
 # 👋 Hey, I'm Harish K  
  Full-Stack Developer | React Specialist
  <hr/>
- 🧑‍💻 <h1>About Me</h1>
+<h1> 🧑‍💻 About Me</h1>
 
  As a B.E. ECE student turned Full-Stack Developer, I’ve built my journey step by step — from learning HTML & CSS, to creating Full-stack projects.
 Today, I specialize in the MERN stack and enjoy building everything from simple UIs to full-scale web apps.
 <hr/>
-
-🛠️ <h1>Tech Arsenal<h1/>
+<h1>
+🛠️ Tech Arsenal<h1/>
 
 #### 🚀 Frontend  
 <p align="left">
